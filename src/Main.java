@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-     Bakery bakery = new Bakery();
-     bakery.welcome();
+        Bakery bakery = new Bakery();
+        bakery.welcome();
 
         Cookies aas = new Cookies();
 
