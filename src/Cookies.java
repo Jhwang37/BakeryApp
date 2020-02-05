@@ -12,6 +12,7 @@ public class Cookies extends Bakery {
 //    protected double price;
 //    protected String expiration;
 //    protected String diet;
+/*
 //    protected int stock;
 
 
@@ -38,6 +39,7 @@ public class Cookies extends Bakery {
     }
 
 
+*/
 
 
 

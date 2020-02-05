@@ -11,6 +11,7 @@ public class Bakery {
     Scanner sc = new Scanner(System.in);
 
     public ArrayList<String> cookies = new ArrayList<String>();
+    public ArrayList<String> bread = new ArrayList<String>();
 
 
     // Cookies c1 = new Cookies("chocolate", 19.11, "2/1999", "soy", 10000);
