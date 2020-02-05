@@ -2,6 +2,10 @@ import java.util.ArrayList;
 
 public class Cookies extends Bakery {
 
+    //TESTING TEXT - THIS SHOULD BE VISIBLE ONLY IN 'MAX' BRANCH!!!!!!
+
+
+
 //    cookie1.setName("chocolate chip");
 //    cookie1.setAllergy("soy");
 //    cookie1.setPrice(19.99);
