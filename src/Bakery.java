@@ -58,12 +58,13 @@ public class Bakery {
 
 
     public String welcome() {
-        System.out.println("howdy! welcoem to the place");
-        System.out.println("We sell the following baked goods: cookies, cake, bread");
-        System.out.println("which are you interested in? ");
-        String category = sc.next();
+        System.out.println("Welcome, Welcome to Epic Bakery!");
+        System.out.println("We sell the following baked goods: cookies, cake, and bread");
+        System.out.println("Which are you interested in? ");
+        String product = sc.nextLine();
+        return product;
 
-        return category;
+
 //
 //        if category.equals("cookies"){
 //            Cookies
